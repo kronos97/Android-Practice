@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RestaurantMenu</string>
+    <string-array name="abc">
+        <item>Roti</item>
+        <item>Naan</item>
+        <item>Kulcha</item>
+        <item>Garlic Bread</item>
+        <item>Vada Pav</item>
+        <item>Pizza</item>
+        <item>Sandwich</item>
+        <item>Paneer Tikka</item>
+        <item>Aloo Dum</item>
+        <item>Mutter Panner</item>
+        <item>Pasta</item>
+        <item>Noodles</item>
+        <item>Schezwan Rice</item>
+        <item>Momos</item>
+        <item>Dumplings</item>
+        <item>Budweiser</item>
+        <item>Thumps Up</item>
+        <item>Real Juice</item>
+        <item>Aquafina</item>
+        <item>Bisleri</item>
+
+
+    </string-array>
+    >
+</resources>
